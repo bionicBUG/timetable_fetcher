@@ -1,0 +1,3 @@
+# Program to fetch titmetable from SRM URP
+
+This program uses Java Swing UI and Selenium WebDriver. Chrome/Chromium 86 is need for this to work.
